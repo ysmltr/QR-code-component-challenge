@@ -1,0 +1,48 @@
+
+
+
+  img{
+    width: 100%;
+    border-radius: 0.625rem;
+    max-width: 17rem;
+    max-height: 17rem;
+  }
+  body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 15px;
+  }
+
+
+
+  .container{
+    background-color: #ffff;
+    max-width: 17rem;
+    padding: 18px;
+    border-radius: 15px;
+}
+
+  .header{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 700;
+    width: 100%;
+  }
+  
+  .main-text{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: gray;
+  }
+  
+  .attribution { font-size: 11px; 
+    text-align: center; 
+}
+
+  .attribution a { 
+    color: hsl(228, 45%, 44%); }
